@@ -1,0 +1,3 @@
+| pdflatex paper && bibtex paper && pdflatex paper && pdflatex paper
+
+| pdflatex abstract && pdflatex abstract

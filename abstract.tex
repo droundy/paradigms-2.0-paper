@@ -1,0 +1,97 @@
+\documentclass[
+    ,final            % use final for the camera ready runs
+%%  ,draft            % use draft while you are working on the paper
+%%  ,numberedheadings % uncomment this option for numbered sections
+%%  ,                 % add further options here if necessary
+    ,sort&compress
+  ]
+  {aipproc}
+
+\layoutstyle{8x11double}
+
+\usepackage{graphicx}% Include figure files
+\usepackage{dcolumn}% Align table columns on decimal point
+\usepackage{bm}% bold math
+\usepackage{color}
+\usepackage{amsmath}
+\usepackage{units}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% FRONTMATTER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\title{Paradigms in Physics 2.0}
+
+\classification{} % <Replace this text with PACS numbers; choose from this list:
+                  % \texttt{http://www.aip.org/pacs/index.html}>
+\keywords{curriculum redesign} % <Enter Keywords here>
+
+\author{David Roundy}{
+  address={Department of Physics, Oregon State
+    University, Corvallis, Oregon 97331}}
+\author{Liz Gire}{
+  address={Department of Physics, Oregon State
+    University, Corvallis, Oregon 97331}}
+\author{Ethan Minot}{
+  address={Department of Physics, Oregon State
+    University, Corvallis, Oregon 97331}}
+\author{Emily van Zee}{
+  address={Department of Physics, Oregon State
+    University, Corvallis, Oregon 97331}}
+\author{Tevian Dray}{
+  address={Department of Mathematics, Oregon State
+    University, Corvallis, Oregon 97331}}
+\author{Corinne A. Manogue}{
+  address={Department of Physics, Oregon State
+    University, Corvallis, Oregon 97331}}
+
+\newcommand\myderiv[3]{\ensuremath{\left(\dfrac{\partial #1}{\partial #2}\right)_{#3}}}
+\newcommand\myderivinline[3]{\ensuremath{(\slfrac{\partial #1}{\partial #2})_{#3}}}
+\newcommand\inexactd{d\hspace{-0.9ex}^-\!}
+
+\newcommand\todo[1]{\textcolor{red}{(todo: #1)}}
+\newcommand\fixme[1]{\textcolor{red}{(fixme: #1)}}
+\newcommand\wording[2][red]{\textcolor{#1}{\underline{#2}}}
+\newcommand\wordingnote[3][red]{\textcolor{#1}{\underline{#2}\footnote{#3}}}
+
+\definecolor{small}{rgb}{0, 0, 1}
+
+\newcommand\dbar{{\mkern6mu\mathchar'26\mkern-12mu d}}
+
+\begin{abstract}
+In 2016, the Department of Physics at Oregon State University began a
+process to revise our Paradigms in Physics curriculum for physics
+majors.  This poster will describe both the process by which our
+department achieved consensus on this curricular change, and the
+resulting curriculum.  The Paradigms 2.0 committee begain with a
+survey of students and faculty, followed by individual interviews with
+the faculty teaching each existing course.  As we developed a plan to
+address student- and faculty-identified challenges in the curriculum,
+we met with each faculty member individually to explain and refine our
+proposal, which was unanimously approved by the faculty.  Major
+changes include elimination or major changes to several courses (math
+methods, computational physics, modern physics, electronics, and
+classical mechanics), including the introduction of two sophomore-year
+courses designed specifically to help prepare students to for their
+upper-division courses.
+\end{abstract}
+
+\maketitle
+
+%% \section{Introduction}\label{intro}
+
+
+%% \begin{theacknowledgments}
+%%   %% NSF DUE 0618877, 0837829, 1023120, and 1323800.
+%%   The funding for this project was provided, in part, by the National
+%%   Science Foundation under Grant Nos.  DUE 0618877, DUE 0837829,
+%%   DUE 1023120, and DUE 1323800.
+%% \end{theacknowledgments}
+
+%% \bibliographystyle{aipproc}   % if natbib is available
+%% \bibliography{paper}% Produces the bibliography via BibTeX.
+% \input{paper.bbl}
+
+\end{document}
