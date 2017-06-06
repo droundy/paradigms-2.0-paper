@@ -175,6 +175,78 @@ Second subheading & Numbers, italicized
 \end{ruledtabular}
 \end{table}
 
+%\newcommand\mathcourse[2]{\emph{#1 (#2)}}
+\newcommand\mathcourse[2]{\emph{#1}}
+\newcommand\noted[2]{\textbf{#1} (#2)}
+\newcommand\paradigm[1]{#1 (3)}
+\newcommand\capstone[1]{#1 (3)}
+\newcommand\onecredit[1]{#1 (1)}
+\newcommand\threecredit[1]{#1 (3)}
+\newcommand\fourcredit[1]{#1 (4)}
+
+\begin{table*}[htbp]
+\caption{Hypothetical student schedule for a student entering without
+  calculus.  Students with AP Calculus can take the junior-year
+  courses one year earlier, and students who start calculus-based
+  physics in the Fall of their second year are not
+  delayed.\label{schedule}}
+\begin{ruledtabular}
+\begin{tabular}{rlll}
+  \textbf{Year} & \textbf{Fall} & \textbf{Winter} & \textbf{Spring} \\
+  \hline
+  1 & \mathcourse{Differential calculus}{251} &
+  \mathcourse{Integral calculus}{252} &
+  \mathcourse{Multivariable calculus}{254} \\
+    & & \onecredit{Freshman Seminar} & \fourcredit{Calc Physics I} \\
+\hline  2 & \mathcourse{Vector calculus}{255}
+  & \mathcourse{Differential equations}{256}
+  & \mathcourse{Linear algebra}{341} \\
+  & \fourcredit{Calc Physics II} & \fourcredit{Calc Physics III} &\mathcourse{Series and
+    sequences}{253} \\
+  && \noted{Challenges}{3} & \noted{Theoretical Mechanics}{3}
+  \\
+\hline 3 & \paradigm{Quantum fundamentals} & \paradigm{Osciallations and waves} & \paradigm{Static fields}
+\\
+  & \paradigm{Energy and entropy} & \paradigm{Periodic systems} & \paradigm{Central forces}
+\\
+  & \onecredit{Computational lab I} & \onecredit{Computational lab II} & \onecredit{Computational lab III}
+\\
+  & \threecredit{Electronics} & \threecredit{Computer interfacing} & \onecredit{Research}
+\\
+\hline 4 & \capstone{Electromagnetism capstone} & \capstone{Quantum capstone} & \capstone{Thermal capstone}
+\\
+& \onecredit{Thesis} & \onecredit{Thesis} & \onecredit{Thesis}
+\\
+& \onecredit{Research} & \onecredit{Research}
+\end{tabular}
+\end{ruledtabular}
+\end{table*}
+
+\begin{table*}[htbp]
+\caption{Hypothetical transfer student schedule.\label{schedule}}
+\begin{ruledtabular}
+\begin{tabular}{rlll}
+  \textbf{Year} & \textbf{Fall} & \textbf{Winter} & \textbf{Spring} \\
+  \hline
+3 & \paradigm{Quantum fundamentals} & \paradigm{Osciallations and waves} & \paradigm{Static fields}
+\\
+  & \paradigm{Energy and entropy} & \paradigm{Periodic systems} & \paradigm{Central forces}
+\\
+  & \onecredit{Computational lab I} & \onecredit{Computational lab II} & \onecredit{Computational lab III}
+\\
+  & \threecredit{Electronics} & \threecredit{Computer interfacing} & \onecredit{Research}
+\\
+&& \noted{Challenges}{3} & \noted{Theoretical Mechanics}{3}
+\\
+\hline 4 & \capstone{Electromagnetism capstone} & \capstone{Quantum capstone} & \capstone{Thermal capstone}
+\\
+& \onecredit{Thesis} & \onecredit{Thesis} & \onecredit{Thesis}
+\\
+& \onecredit{Research} & \onecredit{Research}
+\end{tabular}
+\end{ruledtabular}
+\end{table*}
+
 % Formatting tweak if needed--FloatBarrier forces floats to show here, before next section
 %\FloatBarrier	
 
