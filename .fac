@@ -1,3 +1,5 @@
 | pdflatex paper && bibtex paper && pdflatex paper && pdflatex paper
 
 | pdflatex abstract && pdflatex abstract
+
+| inkscape -D --export-pdf schedule.pdf schedule.svg
