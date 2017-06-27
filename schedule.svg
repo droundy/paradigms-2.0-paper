@@ -1048,9 +1048,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6679383"
-     inkscape:cx="1112.0813"
-     inkscape:cy="603.04696"
+     inkscape:zoom="1.042087"
+     inkscape:cx="1283.6201"
+     inkscape:cy="697.15777"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2877,7 +2877,12 @@
            x="85.579666"
            y="158.43082"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-           id="tspan5015">Computational</tspan></text>
+           id="tspan5015">Computational</tspan><tspan
+           sodipodi:role="line"
+           x="85.579666"
+           y="165.04539"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           id="tspan523">Physics</tspan></text>
     </g>
     <text
        id="text5628"
