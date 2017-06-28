@@ -42,7 +42,10 @@
 \usepackage{hyperref}  
 \hypersetup{colorlinks=true,urlcolor=blue,citecolor=blue,linkcolor=blue}   
 \urlstyle{same}
-\pagestyle{empty}			% page numbers added later, when compiling the whole proceedings
+\pagestyle{empty}		% page numbers added later, when compiling the whole proceedings
+
+\newcommand\corinnesays[1]{\textcolor{red}{[\sc CAM: \em{#1}]}}
+
 \begin{document}
 
 \title{Paradigms in Physics 2.0}
@@ -51,8 +54,6 @@
 \author{Ethan Minot}
 \author{Emily van Zee}
 \affiliation{Department of Physics, Oregon State University, Corvallis, Oregon, 97331}
-\author{Tevian Dray}
-\affiliation{Department of Mathematics, Oregon State University, Corvallis, Oregon, 97331}
 \author{Corinne A. Manogue}
 \affiliation{Department of Physics, Oregon State University, Corvallis, Oregon, 97331}
 
@@ -61,7 +62,7 @@
 \begin{abstract}
 In 2016, the Department of Physics at Oregon State University began a
 process to revise our Paradigms in Physics curriculum for physics
-majors.  This poster will describe both the process by which our
+majors.  This paper will describe both the process by which our
 department achieved consensus on this curricular change, and the
 resulting curriculum.  The Paradigms 2.0 committee begain with a
 survey of students and faculty, followed by individual interviews with
@@ -77,24 +78,11 @@ upper-division courses.
 \end{abstract}
 
 \maketitle
-
+% * <ethan.minot@oregonstate.edu> 2017-06-28T19:21:10.109Z:
+%
+% ^.
 \section{Introduction}
 The Paradigms in Physics program is a rethinking of the upper-division
-physics curriculum that began around the time when our current
-students were born~\cite{manogue2001paradigms}.  The basic ideas
-behind the original Paradigms reform were (1) attention to the
-sequencing of concepts, (2) acheiving faculty buy-in, which requires
-faculty to understand the sequencing, and (3) implementation of active
-engagement through the upper-division curriculum.  In 2016, we began a
-rethinking of the Paradigms, with focus on the same principles guiding
-the original effort, but with the input of new faculty, and applying
-lessons learned over the past two decades.  In this paper, we will
-explain the reasoning behind this Paradigms 2.0 effort, the process by
-which we achieved developed and reached consensus on an improved
-curriculum, and will give both a summary and a few highlights of the
-new program.
-
-\subsection{Background}
 The Paradigms in Physics project began in 1996, when three faculty
 members at Oregon State applied to the NSF for funding to redesign the
 upper-division curriculum.  The motivation for the original Paradigms
@@ -105,7 +93,7 @@ must be able to graduate with two years of upper-division
 courses~\cite{manogue2001paradigms}.  On top of this, there was a
 desire to provide students with a broad knowledge of physics prior to
 the GRE exams in the fall of their senior year.  The process of
-redesigning the curriculum was dominated by the creation index cards
+redesigning the curriculum was dominated by the creation of index cards
 listing subject content, and sorting these cards into courses.  This
 process involved the entire faculty, and culminated in a unanimous
 agreement to adopt the resulting curriculum.
@@ -120,24 +108,25 @@ traditional 3-credit courses which meet three hours per week for an
 entire quarter.  The Paradigms courses had integrated math content,
 followed by a Math Methods course.
 
-A coupe of decades have passed since the original Paradigms effort.
+Two decades have passed since the original Paradigms effort.
 During this time we have made a number of changes: e.g. a new
 \emph{first} Paradigm was introduced to soften the beginning of the
 junior year, the order of Paradigms was shuffled more than once, Math
 Methods was moved from the beginning of the senior year to the end of
 the junior year, and a computational laboratory course was introduced
-to accompany the Paradigms.  We maintained the tradition of meeting
+to accompany the Paradigms.  The faculty maintained the tradition of meeting
 every three weeks to discuss issues relating to upper-division
 teaching.  New faculty arrived and learned to teach the new courses,
-and introduced their own approach to the courses.
+and introduced their own ideas to the courses.
 
 \subsection{Motivation for Paradigms 2.0}
 There were a number of factors that motivated us to embark on the
 Paradigms~2.0 process.  In the last two decades, we have observed
-challenges students face in the Paradigms.  While in many cases we
+a number of challenges students face in the Paradigms.  While in many cases we
 addressed these by changing and reordering the courses, we felt a look
 at the entire curriculum was in order.  In addition, our faculty
-buy-in and aware was diminishing by attrition: while our younger
+understanding of the details of the sequence was diminishing by attrition: 
+while our younger
 faculty are enthusiastic about the Paradigms, many lack perspective on
 where students are in a given course, and what content is essential
 for students to grasp prior to a following course.
@@ -148,7 +137,7 @@ transfer students from community colleges.  This leads us to focus on
 a physics major in which all upper-division courses are taken in two
 years.  However, our current curriculum is very hard on students in
 the fall of their junior year, and especially so for transfer
-students.  So we aimed to structure the courses such that non-transfer
+students.  So we aimed to structure and order the courses such that non-transfer
 students could be better prepared for their junior year, while
 transfer students could postpone a few courses so that their junior
 Fall would be no more difficult than that of any other student.
@@ -161,7 +150,8 @@ physics, the amount of required electronics credits, and the role of
 our modern physics course.  These persistent issues were not easily
 addressed without addressing the physics major curriculum as a whole,
 and any discussion of one tended to devolve into a discussion of
-everything, without progress being made.
+everything, without progress being made.  
+\corinnesays{This paragraph could perhaps be tightened.}
 
 \paragraph{New faculty}
 % Corinne, Henri, David McI, Janet, Tom = 5
@@ -194,7 +184,7 @@ When we discussed major changes to a course, we often invited
 interested faculty to join us to provide their own perspective on
 possible challenges and improvements.  Once we had a draft proposal,
 we began inviting each faculty member in to see the cards and discuss
-the proposed sequence of courses.  In addition, we had a meeting with
+the proposed sequence of courses.  In addition, we had a focus group with
 all the current students to explain the proposed changes and request
 feedback.
 
@@ -204,8 +194,7 @@ our proposal in detail and invited questions, but not discussion.
 This was needed for several reasons.  Those faculty we met with first
 may not have seen the final proposal.  Some faculty during their
 individual meetings chose to focus on a small subset of the
-curriculum, often relating to courses they had themselves taught.  In
-one meeting we presented the proposal and fielded questions.  In a
+curriculum, often relating to courses they had themselves taught.  In a
 second faculty meeting, we again presented our proposal, and opened
 the floor for discussion.  After considerable discussion, we
 unanimously voted to adopt the proposed changes.
@@ -252,25 +241,24 @@ per quarter.    This change has several advantages.  It gives students
 a bit more time with each professor prior to their final exam.  This
 gives a bit more flexibility, for instance, in case of illness.
 Finally, by reducing the number of Paradigms, we allow the curriculum
-to be taught with fewer faculty, albeit at a work load per professor.
+to be taught with fewer faculty, albeit at an increased work load per professor.
 
 We put considerable thought into the content and ordering of the new
 Paradigms.  In most cases, we think of each 5-week Paradigm as either
 one formerly 4-week Paradigm (the one that consumed the extra week
-each quarter) or two 3-week Paradigms compressed.  The major
+each quarter), two 3-week Paradigms compressed, or three 3-week paradigms combined into two 5-week paradigms.  The major
 scheduling change is to place Static Fields (electrostatics and
-magnetostatics) in the spring quarter.  This intended to give students
+magnetostatics) in the spring quarter.  
+This intended to give students, especially transfer students, 
 a bit more time to take Vector Calculus.  It also puts all use of
 curvilinear coordinates in the spring quarter, which should ease the
-learning of Central Forces.  The final major change was the
-elimination of special relativity from the Paradigms, which is has now
-moved into the new sophomore-level Theoretical Mechanics course.
+learning of Central Forces.  The final major change was to move special relativity from the junior-year Paradigms to the new sophomore-level Theoretical Mechanics course.
 
 \subsection{Math bits}
 We chose to eliminate the Math Methods course in favor of formal
 ``math bits'' in the Paradigms.  Our previous Math Methods Capstone
 posed a challenge regarding placement in the curriculum: it needed to
-be sufficiently late in order for students to be adequately prepared
+be sufficiently late for students to be adequately prepared
 for advanced mathematical content, but in order to be functional in
 the curriculum it should teach content that is required by other
 physics courses, and thus should be earlier in the curriculum.  In
@@ -289,6 +277,7 @@ content.  This provides some relief from teaching for the Paradigms
 professors, and at the same time ensures that they do not succumb to
 the temptation to short-change the math content to the detriment of
 the students.
+\corinnesays{This paragraph is awkward.  I'm still thinking about some rewording.  This might be a good paragraph to discuss this afternoon.}
 
 \subsection{Electronics}
 We chose to reduce the Electronics requirement from two 3-credit
@@ -300,14 +289,14 @@ course---in favor of in-lab instruction.
 
 A final change to Electronics is that we now will \emph{require}
 Electronics during the junior year (specifically as a prerequisite for
-Oscillations and Waves).  This is made possible by the reduction in
+the Oscillations and Waves Paradigm).  This is made possible by the reduction in
 Fall workload for incoming transfer students, who had previously
 usually taken Electronics as a senior.  This change has enabled us to
 articulate distinct and sequenced learning outcomes from these two
 courses, particularly in the realm of complex exponentials and Fourier
 transforms.  It is also beneficial in providing students with
 trouble-shooting skills prior to the in-class labs taught in
-Oscillations and Waves.
+Oscillations and Waves course.
 
 \subsection{Computational lab}
 Over the last six years, we have been developing a 1-credit
@@ -317,14 +306,14 @@ lower-division 3-credit course in computational physics.  This
 lower-division course was challenging to teach, since it always had a
 mix of lower- and upper-division students, with very different skill
 levels and needs.  Transfer students now take computation alongside
-the non-transfer students, in a laboratory setting using pair
+the non-transfer students. The course is taught in a laboratory setting using pair
 programming to help new programmers to learn.
 
 \subsection{Sophomore courses}
 We introduced two new sophomore-level courses: \emph{Challenges in
   Contemporary Physics}, and \emph{Theoretical Mechanics}.  Both of
 these courses ramp up student mathematical abilities prior to their
-junior year.  The Challenges course will focus on estimation,
+junior year.  The Challenges course focuses on estimation,
 dimensional reasoning, and interpretation of integrals, while
 Theoretical Mechanics will teach power series approximations, and
 expose students to increased levels of mathematical sophistication.
@@ -338,6 +327,7 @@ Fall or Winter Paradigms so that they can be taken concurrently with
 the Paradigms.
 
 \subsubsection{Challenges in Contemporary Physics}
+\corinnesays{You might want to use your paragraph structure here, rather than sub-sub sections.}
 
 In ``The Physics of Contemporary Challenges'' we prepare students to
 apply physics concepts and physical reasoning skills to sustainable
