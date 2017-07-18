@@ -1,5 +1,10 @@
 # Paradigms in Pysics 2.0
 
+<a href="talks/perc-2017-poster.svg"><img class="big" src="talks/perc-2017-poster.svg"/></a>
+
+* [Poster in SVG format](talks/perc-2017-poster.svg)
+* [Poster in PDF format](talks/perc-2017-poster.pdf)
+
 ## transforming the Physics major... again!
 
 David Roundy, Elizabeth Gire, Ethan Minot, Emily van Zee, and Corinne A. Manogue

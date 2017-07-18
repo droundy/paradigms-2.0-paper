@@ -7,3 +7,8 @@
 | inkscape -D --export-pdf vertical-schedule.pdf vertical-schedule.svg
 
 # | rm -rf overleaf && mkdir overleaf && cp paper.tex paper.bib schedule.pdf overleaf/ && zip -r overleaf overleaf
+
+| inkscape --export-pdf poster.pdf poster.svg
+
+| inkscape --export-pdf poster-without-fonts.pdf poster-without-fonts.svg
+
