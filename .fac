@@ -14,3 +14,10 @@
 
 | inkscape --export-pdf poster-without-fonts.pdf poster-without-fonts.svg
 
+| inkscape -d 600 -D --export-png existing.png existing.svg
+
+| inkscape -d 600 -D --export-png plan-a.png plan-a.svg
+
+| inkscape -d 600 -D --export-png plan-b.png plan-b.svg
+
+| inkscape -d 600 -D --export-png plan-c.png plan-c.svg

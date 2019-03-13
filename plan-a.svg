@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="plan-a.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0353575"
+     inkscape:cx="422.25169"
+     inkscape:cy="401.99281"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1200"
+     inkscape:window-height="1883"
+     inkscape:window-x="1200"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4560"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Noto Serif';font-style:normal;font-weight:normal;font-size:21.33333333px;-inkscape-font-specification:'Noto Serif';font-stretch:normal;font-variant:normal;line-height:25px;letter-spacing:0px;word-spacing:0px;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion4562"><rect
+           id="rect4564"
+           width="80.795891"
+           height="49.903343"
+           x="-87.924934"
+           y="-342.49988" /></flowRegion><flowPara
+         id="flowPara4566" /></flowRoot>    <g
+       transform="translate(-54.651123,52.798063)"
+       id="g4869">
+      <rect
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4863"
+         width="50"
+         height="5"
+         x="81.524467"
+         y="157.84131"
+         rx="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="106.45936"
+         y="161.44098"
+         id="text4867"><tspan
+           sodipodi:role="line"
+           id="tspan4865"
+           x="106.45936"
+           y="161.44098"
+           style="font-size:4.23333359px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">365 Computation</tspan></text>
+    </g>
+    <g
+       transform="translate(65.043703,-28.076912)"
+       id="g4877">
+      <rect
+         rx="2"
+         y="173.71631"
+         x="81.524467"
+         height="15"
+         width="50"
+         id="rect4871"
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4875"
+         y="182.68254"
+         x="106.4845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:5.64444494px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="182.68254"
+           x="106.4845"
+           id="tspan4873"
+           sodipodi:role="line">335 Mechanics</tspan></text>
+    </g>
+    <g
+       transform="translate(3.0434952,-33.44295)"
+       id="g4889">
+      <rect
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4879"
+         width="25"
+         height="30"
+         x="48.829857"
+         y="214.08232"
+         rx="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="61.261127"
+         y="224.2318"
+         id="text4887"><tspan
+           sodipodi:role="line"
+           id="tspan4881"
+           x="61.261127"
+           y="224.2318"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">425</tspan><tspan
+           id="tspan4883"
+           sodipodi:role="line"
+           x="61.261127"
+           y="230.84637"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Quantum</tspan><tspan
+           id="tspan4885"
+           sodipodi:role="line"
+           x="61.261127"
+           y="237.46097"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Fund.</tspan></text>
+    </g>
+    <g
+       transform="translate(-46.956505,-33.44295)"
+       id="g4901">
+      <rect
+         rx="2"
+         y="214.08232"
+         x="73.829857"
+         height="30"
+         width="25"
+         id="rect4891"
+         style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4899"
+         y="224.2318"
+         x="86.34433"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="224.2318"
+           x="86.34433"
+           id="tspan4893"
+           sodipodi:role="line">422</tspan><tspan
+           id="tspan4895"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="230.84637"
+           x="86.34433"
+           sodipodi:role="line">Static</tspan><tspan
+           id="tspan4897"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="237.46097"
+           x="86.34433"
+           sodipodi:role="line">Fields</tspan></text>
+    </g>
+    <g
+       transform="translate(-27.248169,-48.44291)"
+       id="g4913">
+      <rect
+         rx="2"
+         y="214.08232"
+         x="112.32986"
+         height="30"
+         width="25"
+         id="rect4903"
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4911"
+         y="224.2318"
+         x="124.91667"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="224.2318"
+           x="124.91667"
+           id="tspan4905"
+           sodipodi:role="line">424</tspan><tspan
+           id="tspan4907"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="230.84637"
+           x="124.91667"
+           sodipodi:role="line">Osc. &amp;</tspan><tspan
+           id="tspan4909"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="237.46097"
+           x="124.91667"
+           sodipodi:role="line">Waves</tspan></text>
+    </g>
+    <g
+       transform="translate(-27.248169,-48.44291)"
+       id="g4925">
+      <rect
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4915"
+         width="25"
+         height="30"
+         x="137.32986"
+         y="214.08232"
+         rx="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="149.83228"
+         y="223.66267"
+         id="text4923"><tspan
+           sodipodi:role="line"
+           id="tspan4917"
+           x="149.83228"
+           y="223.66267"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">427</tspan><tspan
+           id="tspan4919"
+           sodipodi:role="line"
+           x="149.83228"
+           y="230.27725"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Periodic</tspan><tspan
+           id="tspan4921"
+           sodipodi:role="line"
+           x="149.83228"
+           y="236.89185"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Systems</tspan></text>
+    </g>
+    <g
+       id="g4933"
+       transform="translate(3.5572204,37.798062)">
+      <rect
+         rx="2"
+         y="157.84131"
+         x="81.524467"
+         height="5"
+         width="50"
+         id="rect4927"
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4931"
+         y="161.44098"
+         x="106.45936"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:4.23333359px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="161.44098"
+           x="106.45936"
+           id="tspan4929"
+           sodipodi:role="line">366 Computation</tspan></text>
+    </g>
+    <g
+       transform="translate(65.0437,37.798063)"
+       id="g4941">
+      <rect
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4935"
+         width="50"
+         height="5"
+         x="81.524467"
+         y="157.84131"
+         rx="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="106.45936"
+         y="161.44098"
+         id="text4939"><tspan
+           sodipodi:role="line"
+           id="tspan4937"
+           x="106.45936"
+           y="161.44098"
+           style="font-size:4.23333359px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">367 Computation</tspan></text>
+    </g>
+    <g
+       transform="translate(34.238319,-85.484613)"
+       id="g4953">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4943"
+         width="25"
+         height="30"
+         x="112.32986"
+         y="251.12399"
+         rx="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="124.7346"
+         y="260.70435"
+         id="text4951"><tspan
+           sodipodi:role="line"
+           id="tspan4945"
+           x="124.7346"
+           y="260.70435"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">423</tspan><tspan
+           id="tspan4947"
+           sodipodi:role="line"
+           x="124.7346"
+           y="267.31894"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Energy</tspan><tspan
+           id="tspan4949"
+           sodipodi:role="line"
+           x="124.7346"
+           y="273.9335"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Entropy</tspan></text>
+    </g>
+    <g
+       transform="translate(34.238311,-85.484559)"
+       id="g4965">
+      <rect
+         rx="2"
+         y="251.12399"
+         x="137.32986"
+         height="30"
+         width="25"
+         id="rect4955"
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4963"
+         y="261.27347"
+         x="149.72255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="261.27347"
+           x="149.72255"
+           id="tspan4957"
+           sodipodi:role="line">426</tspan><tspan
+           id="tspan4959"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="267.88806"
+           x="149.72255"
+           sodipodi:role="line">Central</tspan><tspan
+           id="tspan4961"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="274.50262"
+           x="149.72255"
+           sodipodi:role="line">Forces</tspan></text>
+    </g>
+    <g
+       id="g4973"
+       transform="translate(3.5572101,-28.076912)">
+      <rect
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4967"
+         width="50"
+         height="15"
+         x="81.524467"
+         y="173.71631"
+         rx="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="106.4845"
+         y="182.68254"
+         id="text4971"><tspan
+           sodipodi:role="line"
+           id="tspan4969"
+           x="106.4845"
+           y="182.68254"
+           style="font-size:5.64444494px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">315 Challenges</tspan></text>
+    </g>
+    <g
+       transform="translate(-54.651123,-8.0769243)"
+       id="g4981">
+      <rect
+         rx="2"
+         y="173.71631"
+         x="81.524467"
+         height="15"
+         width="50"
+         id="rect4975"
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4979"
+         y="182.68254"
+         x="106.4845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:5.64444494px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="182.68254"
+           x="106.4845"
+           id="tspan4977"
+           sodipodi:role="line">411 Electronics</tspan></text>
+    </g>
+    <g
+       id="g4989"
+       transform="translate(0,121.70835)"
+       style="opacity:0">
+      <rect
+         rx="2"
+         y="38.93103"
+         x="85.081688"
+         height="5"
+         width="50"
+         id="rect4983"
+         style="opacity:1;fill:#f7f0ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#f7f0ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4985"
+         width="50"
+         height="5"
+         x="146.56818"
+         y="38.93103"
+         rx="2" />
+      <rect
+         style="opacity:1;fill:#f7f0ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4987"
+         width="50"
+         height="5"
+         x="26.873356"
+         y="38.93103"
+         rx="2" />
+    </g>
+    <g
+       transform="translate(4.6875002e-8,176.70838)"
+       id="g4997"
+       style="opacity:0">
+      <rect
+         style="opacity:1;fill:#f7f0ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4991"
+         width="50"
+         height="5"
+         x="85.081688"
+         y="38.93103"
+         rx="2" />
+      <rect
+         rx="2"
+         y="38.93103"
+         x="146.56818"
+         height="5"
+         width="50"
+         id="rect4993"
+         style="opacity:1;fill:#f7f0ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         rx="2"
+         y="38.93103"
+         x="26.873356"
+         height="5"
+         width="50"
+         id="rect4995"
+         style="opacity:1;fill:#f7f0ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5005"
+       transform="translate(-54.651112,46.923102)">
+      <rect
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4999"
+         width="50"
+         height="15"
+         x="81.524467"
+         y="173.71631"
+         rx="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="106.4845"
+         y="182.68254"
+         id="text5003"><tspan
+           sodipodi:role="line"
+           id="tspan5001"
+           x="106.4845"
+           y="182.68254"
+           style="font-size:5.64444494px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">431 E&amp;M Cap.</tspan></text>
+    </g>
+    <g
+       transform="translate(3.5572205,46.923102)"
+       id="g5013">
+      <rect
+         rx="2"
+         y="173.71631"
+         x="81.524467"
+         height="15"
+         width="50"
+         id="rect5007"
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5011"
+         y="182.68254"
+         x="106.4845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:5.64444494px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="182.68254"
+           x="106.4845"
+           id="tspan5009"
+           sodipodi:role="line">451 QM Cap.</tspan></text>
+    </g>
+    <g
+       id="g5021"
+       transform="translate(65.043709,46.923102)">
+      <rect
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5015"
+         width="50"
+         height="15"
+         x="81.524467"
+         y="173.71631"
+         rx="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="106.4845"
+         y="182.68254"
+         id="text5019"><tspan
+           sodipodi:role="line"
+           id="tspan5017"
+           x="106.4845"
+           y="182.68254"
+           style="font-size:5.64444494px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">441 Thermal Cap.</tspan></text>
+    </g>
+    <g
+       transform="translate(-54.651112,61.923102)"
+       id="g5037">
+      <rect
+         rx="2"
+         y="173.71631"
+         x="81.524467"
+         height="15"
+         width="50"
+         id="rect5031"
+         style="opacity:1;fill:#c9c9c9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5035"
+         y="182.68254"
+         x="106.4845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:5.64444494px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="182.68254"
+           x="106.4845"
+           id="tspan5033"
+           sodipodi:role="line">464 Computation</tspan></text>
+    </g>
+    <g
+       transform="translate(65.043703,-43.076912)"
+       id="g5045">
+      <rect
+         rx="2"
+         y="173.71631"
+         x="81.524467"
+         height="15"
+         width="50"
+         id="rect5039"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5043"
+         y="182.68254"
+         x="106.4845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:5.64444494px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="182.68254"
+           x="106.4845"
+           id="tspan5041"
+           sodipodi:role="line">315 Challenges</tspan></text>
+    </g>
+    <g
+       id="g5277"
+       transform="translate(3.0281678,-60.760156)">
+      <rect
+         rx="2"
+         y="261.39957"
+         x="82.053528"
+         height="15"
+         width="50"
+         id="rect5269"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5275"
+         y="266.87521"
+         x="107.14999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="266.87521"
+           x="107.14999"
+           id="tspan5271"
+           sodipodi:role="line">Upper division lab</tspan><tspan
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="273.48981"
+           x="107.14999"
+           sodipodi:role="line"
+           id="tspan5273">or 415 Comp. Int.</tspan></text>
+    </g>
+    <g
+       transform="translate(3.0281601,-25.760156)"
+       id="g5287">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5279"
+         width="50"
+         height="15"
+         x="82.053528"
+         y="261.39957"
+         rx="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="107.14999"
+         y="266.87521"
+         id="text5285"><tspan
+           sodipodi:role="line"
+           id="tspan5281"
+           x="107.14999"
+           y="266.87521"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Upper division lab</tspan><tspan
+           id="tspan5283"
+           sodipodi:role="line"
+           x="107.14999"
+           y="273.48981"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">or 415 Comp. Int.</tspan></text>
+    </g>
+  </g>
+</svg>
