@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="plan-c.svg">
+   sodipodi:docname="plan-e.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0384667"
+     inkscape:zoom="1.0322483"
      inkscape:cx="422.25171"
      inkscape:cy="-854.7006"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1199"
-     inkscape:window-height="870"
+     inkscape:window-width="1196"
+     inkscape:window-height="740"
      inkscape:window-x="1200"
-     inkscape:window-y="694"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -219,72 +219,6 @@
            x="106.45936"
            y="161.44098"
            style="font-size:4.23333359px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">367 Computation</tspan></text>
-    </g>
-    <g
-       transform="translate(34.23832,247.01556)"
-       id="g5399">
-      <rect
-         style="opacity:1;fill:#ff7d00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5389"
-         width="25"
-         height="30"
-         x="112.32986"
-         y="251.12399"
-         rx="2" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="124.7346"
-         y="260.70435"
-         id="text5397"><tspan
-           sodipodi:role="line"
-           id="tspan5391"
-           x="124.7346"
-           y="260.70435"
-           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">423</tspan><tspan
-           id="tspan5393"
-           sodipodi:role="line"
-           x="124.7346"
-           y="267.31894"
-           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Energy</tspan><tspan
-           id="tspan5395"
-           sodipodi:role="line"
-           x="124.7346"
-           y="273.9335"
-           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Entropy</tspan></text>
-    </g>
-    <g
-       transform="translate(34.23832,247.01556)"
-       id="g5411">
-      <rect
-         rx="2"
-         y="251.12399"
-         x="137.32986"
-         height="30"
-         width="25"
-         id="rect5401"
-         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text5409"
-         y="261.27347"
-         x="149.72255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-           y="261.27347"
-           x="149.72255"
-           id="tspan5403"
-           sodipodi:role="line">426</tspan><tspan
-           id="tspan5405"
-           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-           y="267.88806"
-           x="149.72255"
-           sodipodi:role="line">Central</tspan><tspan
-           id="tspan5407"
-           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-           y="274.50262"
-           x="149.72255"
-           sodipodi:role="line">Forces</tspan></text>
     </g>
     <g
        transform="translate(-54.651123,309.42317)"
@@ -571,24 +505,24 @@
          height="15"
          width="50"
          id="rect5513"
-         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text5517"
          y="182.68254"
          x="106.4845"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-size:5.64444494px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           style="font-size:5.29166734px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
            y="182.68254"
            x="106.4845"
            id="tspan5515"
-           sodipodi:role="line">424 Osc. &amp; Waves</tspan></text>
+           sodipodi:role="line">426 Central Forces</tspan></text>
     </g>
     <g
        id="g5527"
        transform="translate(-54.651112,379.42323)">
       <rect
-         style="opacity:1;fill:#00e2ff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ff7d00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5521"
          width="50"
          height="15"
@@ -605,7 +539,73 @@
            id="tspan5523"
            x="106.4845"
            y="182.68254"
-           style="font-size:5.64444494px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">427 Periodic Sys.</tspan></text>
+           style="font-size:4.58611111px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">423 Energy &amp; Entropy</tspan></text>
+    </g>
+    <g
+       id="g5109"
+       transform="translate(34.23832,284.05723)">
+      <rect
+         rx="2"
+         y="214.08232"
+         x="137.32986"
+         height="30"
+         width="25"
+         id="rect5099"
+         style="opacity:1;fill:#00e2ff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5107"
+         y="223.66267"
+         x="149.83228"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="223.66267"
+           x="149.83228"
+           id="tspan5101"
+           sodipodi:role="line">427</tspan><tspan
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="230.27725"
+           x="149.83228"
+           sodipodi:role="line"
+           id="tspan5103">Periodic</tspan><tspan
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="236.89185"
+           x="149.83228"
+           sodipodi:role="line"
+           id="tspan5105">Systems</tspan></text>
+    </g>
+    <g
+       id="g5097"
+       transform="translate(34.23832,284.05724)">
+      <rect
+         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5087"
+         width="25"
+         height="30"
+         x="112.32986"
+         y="214.08232"
+         rx="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9388895px;line-height:6.61458302px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="124.91667"
+         y="224.2318"
+         id="text5095"><tspan
+           sodipodi:role="line"
+           id="tspan5089"
+           x="124.91667"
+           y="224.2318"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">424</tspan><tspan
+           sodipodi:role="line"
+           x="124.91667"
+           y="230.84637"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           id="tspan5091">Osc. &amp;</tspan><tspan
+           sodipodi:role="line"
+           x="124.91667"
+           y="237.46097"
+           style="font-size:4.9388895px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           id="tspan5093">Waves</tspan></text>
     </g>
   </g>
 </svg>

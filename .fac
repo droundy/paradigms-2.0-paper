@@ -21,3 +21,7 @@
 | inkscape -d 600 -D --export-png plan-b.png plan-b.svg
 
 | inkscape -d 600 -D --export-png plan-c.png plan-c.svg
+
+| inkscape -d 600 -D --export-png plan-d.png plan-d.svg
+
+| inkscape -d 600 -D --export-png plan-e.png plan-e.svg
